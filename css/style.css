@@ -25,3 +25,7 @@ h2, p, li{
 ul{
   list-style-type: none;
 }
+
+.affiche{
+  margin : auto;
+}
