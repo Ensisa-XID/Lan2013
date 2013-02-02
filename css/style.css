@@ -1,0 +1,10 @@
+html, body{
+  background-color: #000000;
+}
+section{
+  padding: 10%;
+}
+section#logo > img{
+  display:block;
+  margin:auto;
+}
