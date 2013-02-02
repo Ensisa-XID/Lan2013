@@ -2,9 +2,12 @@ html, body{
   background-color: #000000;
 }
 section{
-  padding: 10%;
+  padding: 0 10%;
 }
 section#logo > img{
   display:block;
   margin:auto;
+}
+h1{
+  color: #606060
 }
