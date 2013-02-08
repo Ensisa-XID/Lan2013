@@ -17,7 +17,7 @@ h1{
 h2, p, li{
   color: #909090
 }
-.btn{
+.btn-inscriptions {
   display: block;
   width: 50%;
   margin: 50px auto;
@@ -28,4 +28,8 @@ ul{
 
 .affiche{
   margin : auto;
+}
+
+#inscriptions-closed {
+  margin: 40px auto -20px;
 }
